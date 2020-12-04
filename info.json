@@ -9,6 +9,6 @@
     "dependencies": [
       "base >= 1.1.0"
     ],
-    "description": "Hides bareling and unbareling recipes from the handcrafting menu. Customize hidden subgroups."
+    "description": "Hides barreling and unbarreling recipes from the handcrafting menu. Customize hidden subgroups."
 }
 
