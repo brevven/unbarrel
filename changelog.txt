@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2022-06-19
+  Fixes:
+    - Fix filtering of recipes without an explicit subgroup
+    - Fix mod load order with Space Exploration
+  Features:
+    - Allow filtering of individual recipes
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2020-12-04
   Fixes:

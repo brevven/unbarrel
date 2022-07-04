@@ -1,14 +1,15 @@
 {
     "name": "unbarrel",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "factorio_version": "1.1",
     "title": "Unbarrel",
     "author": "Brevven",
     "contact": "",
     "homepage": "",
     "dependencies": [
-      "base >= 1.1.0"
+      "base >= 1.1.0",
+      "(?) space-exploration"
     ],
-    "description": "Hides barreling and unbarreling recipes from the handcrafting menu. Customize hidden subgroups."
+    "description": "Hides barreling and unbarreling recipes from the handcrafting menu.\n\nCustomize hidden subgroups and recipes."
 }
 
