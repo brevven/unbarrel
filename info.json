@@ -1,15 +1,41 @@
 {
     "name": "unbarrel",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "factorio_version": "1.1",
     "title": "Unbarrel",
     "author": "Brevven",
     "contact": "",
     "homepage": "",
     "dependencies": [
-      "base >= 1.1.0",
-      "(?) space-exploration"
+      "(?) space-exploration",
+      "(?) aai-industry",
+      "(?) Krastorio2",
+      "(?) bzfoundry",
+      "(?) bzaluminum",
+      "(?) bzlead",
+      "(?) bzcarbon",
+      "(?) bztitanium",
+      "(?) bzsilicon",
+      "(?) bztungsten",
+      "(?) bztin",
+      "(?) bzzirconium",
+      "(?) bz-dsr-bridge",
+      "(?) pycoalprocessing",
+      "(?) pyfusionenergy",
+      "(?) pyfusionenergy",
+      "(?) pyindustry",
+      "(?) pyhightech",
+      "(?) pyrawores",
+      "(?) pypetroleumhandling",
+      "(?) pycoalprocessinggraphics",
+      "(?) pyalienlife",
+      "(?) IndustrialRevolution",
+      "(?) 248k",
+      "(?) deadlock-beltboxes-loaders",
+      "(?) DeadlockCrating",
+
+      "base >= 1.1.0"
     ],
-    "description": "Hides barreling and unbarreling recipes from the handcrafting menu.\n\nCustomize hidden subgroups and recipes."
+    "description": "Hides some recipes from the handcrafting menu. Defaults to barreling and unbarreling recipes\n\nCustomize hidden subgroups, groups, categories, and recipes."
 }
 
